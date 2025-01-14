@@ -5,3 +5,5 @@ This car dealership website is built using React, Tailwind CSS, and Node.js, des
 - Backend: Node.js  
 - Deployment: [Car Website]( https://lively-flan-805824.netlify.app/)
 - Note: For the best experience, please open this application on a desktop browser.
+- ![car website image](https://github.com/user-attachments/assets/3e282b12-95d2-47bf-825a-ee46b43dfa3f)
+
